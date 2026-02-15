@@ -8,7 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| FaceWithNull | 21 | ✅ |
+| FaceWithNull | 22 | ✅ |
 | LYoooJ | 5 | ✅ |
 | tomchaccom | 6 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
