@@ -13,7 +13,7 @@
 | Nul0luN | 9 | ✅ |
 | alicebsy | 1 | ❌ |
 | godten-cmd | 5 | ✅ |
-| gun9212 | 3 | ❌ |
+| gun9212 | 4 | ❌ |
 | onff02 | 1 | ❌ |
 | orca-svg | 1 | ❌ |
 | sungjaep11 | 5 | ✅ |
