@@ -10,7 +10,7 @@
 |--------|-------|--------|
 | KangYeSeo04 | 2 | ❌ |
 | LYoooJ | 7 | ✅ |
-| Nul0luN | 10 | ✅ |
+| Nul0luN | 11 | ✅ |
 | alicebsy | 1 | ❌ |
 | godten-cmd | 7 | ✅ |
 | gun9212 | 4 | ❌ |
