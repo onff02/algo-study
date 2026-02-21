@@ -16,7 +16,7 @@
 | gun9212 | 4 | ❌ |
 | onff02 | 5 | ✅ |
 | orca-svg | 5 | ✅ |
-| sungjaep11 | 8 | ✅ |
+| sungjaep11 | 9 | ✅ |
 | tomchaccom | 16 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
