@@ -8,6 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
+| Nul0luN | 1 | ❌ |
 | orca-svg | 2 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
