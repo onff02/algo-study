@@ -8,13 +8,14 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| KangYeSeo04 | 2 | ❌ |
-| Nul0luN | 9 | ✅ |
+| KangYeSeo04 | 4 | ❌ |
+| Nul0luN | 14 | ✅ |
 | alicebsy | 2 | ❌ |
+| godten-cmd | 5 | ✅ |
 | hjxarchive | 5 | ✅ |
-| orca-svg | 15 | ✅ |
-| sungjaep11 | 1 | ❌ |
-| tomchaccom | 3 | ❌ |
+| orca-svg | 16 | ✅ |
+| sungjaep11 | 2 | ❌ |
+| tomchaccom | 4 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
