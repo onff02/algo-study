@@ -11,7 +11,7 @@
 | KangYeSeo04 | 1 | ❌ |
 | LYoooJ | 2 | ❌ |
 | Nul0luN | 8 | ✅ |
-| onff02 | 3 | ❌ |
+| onff02 | 4 | ❌ |
 | orca-svg | 2 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
