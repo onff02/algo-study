@@ -10,9 +10,12 @@
 |--------|-------|--------|
 | KangYeSeo04 | 1 | ❌ |
 | LYoooJ | 2 | ❌ |
-| Nul0luN | 8 | ✅ |
+| Nul0luN | 12 | ✅ |
+| alicebsy | 1 | ❌ |
 | onff02 | 4 | ❌ |
-| orca-svg | 2 | ❌ |
+| orca-svg | 3 | ❌ |
+| sungjaep11 | 3 | ❌ |
+| tomchaccom | 2 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
