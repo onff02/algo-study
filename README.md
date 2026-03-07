@@ -15,7 +15,7 @@
 | onff02 | 5 | ✅ |
 | orca-svg | 4 | ❌ |
 | sungjaep11 | 3 | ❌ |
-| tomchaccom | 6 | ✅ |
+| tomchaccom | 8 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
