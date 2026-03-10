@@ -11,7 +11,7 @@
 | LYoooJ | 1 | ❌ |
 | Nul0luN | 7 | ✅ |
 | alicebsy | 1 | ❌ |
-| onff02 | 1 | ❌ |
+| onff02 | 2 | ❌ |
 | orca-svg | 3 | ❌ |
 | sungjaep11 | 1 | ❌ |
 | tomchaccom | 2 | ❌ |
