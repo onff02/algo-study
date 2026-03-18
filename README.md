@@ -10,7 +10,7 @@
 |--------|-------|--------|
 | LYoooJ | 1 | ❌ |
 | Nul0luN | 9 | ✅ |
-| alicebsy | 4 | ❌ |
+| alicebsy | 5 | ✅ |
 | haeunjeon0410 | 17 | ✅ |
 | onff02 | 12 | ✅ |
 | sungjaep11 | 7 | ✅ |
