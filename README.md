@@ -4,20 +4,11 @@
 
 <!-- WEEKLY_DASHBOARD_START -->
 
-📅 기준: 2026-03-16 (월요일 00:00 KST)
+📅 기준: 2026-03-23 (월요일 00:00 KST)
 
 | Member | Count | Status |
 |--------|-------|--------|
-| KangYeSeo04 | 5 | ✅ |
-| LYoooJ | 5 | ✅ |
-| Nul0luN | 27 | ✅ |
-| alicebsy | 5 | ✅ |
-| godten-cmd | 5 | ✅ |
-| haeunjeon0410 | 28 | ✅ |
-| onff02 | 11 | ✅ |
-| orca-svg | 5 | ✅ |
-| sungjaep11 | 4 | ❌ |
-| tomchaccom | 5 | ✅ |
+| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
