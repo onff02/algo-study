@@ -13,6 +13,7 @@
 | alicebsy | 3 | ❌ |
 | godten-cmd | 4 | ❌ |
 | haeunjeon0410 | 7 | ✅ |
+| orca-svg | 1 | ❌ |
 | sungjaep11 | 3 | ❌ |
 | tomchaccom | 13 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
