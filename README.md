@@ -14,7 +14,7 @@
 | godten-cmd | 4 | ❌ |
 | haeunjeon0410 | 7 | ✅ |
 | onff02 | 3 | ❌ |
-| orca-svg | 4 | ❌ |
+| orca-svg | 5 | ✅ |
 | sungjaep11 | 3 | ❌ |
 | tomchaccom | 14 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
