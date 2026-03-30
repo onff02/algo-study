@@ -27,13 +27,11 @@ def meet(x, y):
                 if school[dj][di] != 'X':
                     meet(di,dj)
 
-
 for i in range(n):
     s = input().strip()
     if s.find('I') != -1:
         doyeon_x, doyeon_y = (int(s.find('I')), i)
     school.append(list(s))
-
 
 meet(doyeon_x, doyeon_y)
 
