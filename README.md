@@ -13,7 +13,7 @@
 | Nul0luN | 15 | ✅ |
 | alicebsy | 5 | ✅ |
 | haeunjeon0410 | 10 | ✅ |
-| hjxarchive | 1 | ❌ |
+| hjxarchive | 2 | ❌ |
 | onff02 | 20 | ✅ |
 | orca-svg | 5 | ✅ |
 | sungjaep11 | 5 | ✅ |
