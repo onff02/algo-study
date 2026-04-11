@@ -8,7 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| Nul0luN | 12 | ✅ |
+| Nul0luN | 13 | ✅ |
 | onff02 | 4 | ❌ |
 | sungjaep11 | 2 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
