@@ -4,13 +4,11 @@
 
 <!-- WEEKLY_DASHBOARD_START -->
 
-📅 기준: 2026-04-06 (월요일 00:00 KST)
+📅 기준: 2026-04-13 (월요일 00:00 KST)
 
 | Member | Count | Status |
 |--------|-------|--------|
-| Nul0luN | 18 | ✅ |
-| onff02 | 4 | ❌ |
-| sungjaep11 | 2 | ❌ |
+| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
