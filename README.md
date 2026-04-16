@@ -8,7 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| Nul0luN | 6 | ✅ |
+| Nul0luN | 7 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
