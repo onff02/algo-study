@@ -4,11 +4,11 @@
 
 <!-- WEEKLY_DASHBOARD_START -->
 
-📅 기준: 2026-04-13 (월요일 00:00 KST)
+📅 기준: 2026-04-20 (월요일 00:00 KST)
 
 | Member | Count | Status |
 |--------|-------|--------|
-| Nul0luN | 9 | ✅ |
+| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
