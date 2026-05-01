@@ -8,7 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| godten-cmd | 2 | ❌ |
+| godten-cmd | 3 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
