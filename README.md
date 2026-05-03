@@ -4,11 +4,11 @@
 
 <!-- WEEKLY_DASHBOARD_START -->
 
-📅 기준: 2026-04-27 (월요일 00:00 KST)
+📅 기준: 2026-05-04 (월요일 00:00 KST)
 
 | Member | Count | Status |
 |--------|-------|--------|
-| godten-cmd | 7 | ✅ |
+| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
