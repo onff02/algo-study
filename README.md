@@ -8,7 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| onff02 | 2 | ❌ |
+| onff02 | 3 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
