@@ -8,6 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
+| Nul0luN | 1 | ❌ |
 | godten-cmd | 2 | ❌ |
 | onff02 | 3 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
