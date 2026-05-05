@@ -2,7 +2,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| Nul0luN | 7 | ✅ |
+| Nul0luN | 8 | ✅ |
 | godten-cmd | 2 | ❌ |
 | onff02 | 3 | ❌ |
 | sungjaep11 | 4 | ❌ |
