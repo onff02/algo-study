@@ -1,11 +1,15 @@
 name: Weekly Dashboard
 
 on:
-  push:
+  pull_request:
     branches:
       - main
+    types:
+      - closed   # ✅ PR이 닫힐 때 (머지 포함)
+
   schedule:
     - cron: '0 15 * * 0'
+
   workflow_dispatch:
 
 permissions:
@@ -17,7 +21,8 @@ concurrency:
 
 jobs:
   dashboard:
-    # ✅ if 조건 제거 - 커밋 메시지로 무한루프 방지
+    # ✅ PR 이벤트일 경우 머지된 것만 실행
+    if: github.event_name != 'pull_request' || github.event.pull_request.merged == true
     runs-on: ubuntu-24.04
     timeout-minutes: 10
 
@@ -34,13 +39,6 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            // ✅ 커밋 메시지로 봇 루프 방지
-            const commitMsg = context.payload.head_commit?.message ?? "";
-            if (commitMsg.includes("weekly dashboard update")) {
-              console.log("봇 커밋 감지 - 스킵");
-              process.exit(0);
-            }
-
             const fs = require("fs");
             const owner = "algo-gongbu";
             const repo = "algo-study";
@@ -135,8 +133,8 @@ jobs:
               print("ERROR: README.md not found", file=sys.stderr)
               sys.exit(1)
           if not table_file.exists():
-              print("봇 커밋으로 인한 스킵 - 정상 종료")
-              sys.exit(0)
+              print("ERROR: dashboard_table.txt not found", file=sys.stderr)
+              sys.exit(1)
 
           content = readme.read_text(encoding="utf-8")
           dashboard = table_file.read_text(encoding="utf-8").strip()
