@@ -4,12 +4,10 @@
 
 <!-- WEEKLY_DASHBOARD_START -->
 
-📅 기준: 2026-05-11 (월요일 00:00 KST)
-
-| Member | Count | Status |
-|--------|-------|--------|
-| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
+
+---
+
 
 # 스터디 참여 가이드
 
