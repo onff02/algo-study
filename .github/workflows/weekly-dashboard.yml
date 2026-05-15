@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: weekly-dashboard
-  cancel-in-progress: false  # ⭐ true → false로 변경
+  cancel-in-progress: true  # ⭐ true → false로 변경
 
 jobs:
   dashboard:
