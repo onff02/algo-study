@@ -26,16 +26,14 @@ jobs:
 
     steps:
       # =========================================
-      # 0️⃣ 대시보드 레포 Checkout
+      # 0️⃣ Repository Checkout
       # =========================================
-      - name: Checkout Dashboard Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          repository: algo-gongbu/algo-dashboard  # ← 대시보드 레포
           ref: main
           fetch-depth: 0
           persist-credentials: true
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       # =========================================
       # 1️⃣ Weekly PR Stats 생성
@@ -170,9 +168,9 @@ jobs:
           PY
 
       # =========================================
-      # 3️⃣ 대시보드 레포에 Commit & Push
+      # 3️⃣ Commit & Push
       # =========================================
-      - name: Commit and Push to Dashboard Repo
+      - name: Commit and Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
