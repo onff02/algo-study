@@ -7,10 +7,6 @@ on:
     types:
       - closed
 
-  push:
-    branches:
-      - main
-
   schedule:
     - cron: '0 15 * * 0'
 
@@ -25,9 +21,7 @@ concurrency:
 
 jobs:
   dashboard:
-    if: |
-      (github.event_name != 'pull_request' || github.event.pull_request.merged == true) &&
-      (github.event_name != 'push' || github.repository == 'algo-gongbu/algo-study')
+    if: github.event_name != 'pull_request' || github.event.pull_request.merged == true
     runs-on: ubuntu-24.04
     timeout-minutes: 10
 
