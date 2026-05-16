@@ -12,7 +12,7 @@
 | alicebsy | 5 | ✅ |
 | haeunjeon0410 | 4 | ❌ |
 | sungjaep11 | 9 | ✅ |
-| tomchaccom | 29 | ✅ |
+| tomchaccom | 30 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 ---
