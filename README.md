@@ -7,7 +7,14 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| - | 0 | ❌ |
+| LYoooJ | 5 | ✅ |
+| Nul0luN | 6 | ✅ |
+| alicebsy | 5 | ✅ |
+| haeunjeon0410 | 6 | ✅ |
+| hjxarchive | 5 | ✅ |
+| onff02 | 2 | ❌ |
+| sungjaep11 | 9 | ✅ |
+| tomchaccom | 32 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 ---
@@ -160,7 +167,6 @@ Action이 정상 실행되었다면, 본인 백준 아이디 폴더 내부에 �
 
 ### 동기화 완료 
 <img width="900" height="270" alt="image" src="https://github.com/user-attachments/assets/42e0cef1-cfd9-4a50-a40d-94256e4cc787" />
-
 
 
 
