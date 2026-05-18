@@ -7,8 +7,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| sungjaep11 | 1 | ❌ |
-| tomchaccom | 1 | ❌ |
+| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 ---
