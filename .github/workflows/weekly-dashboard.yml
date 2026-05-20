@@ -3,7 +3,7 @@ name: Weekly Dashboard
 on:
   push:
     branches:
-      - main # 공용 레포 main에 머지(push)되는 순간 무조건 실행
+      - main
 
   workflow_dispatch:
 
@@ -20,7 +20,8 @@ concurrency:
 
 jobs:
   dashboard:
-    # 모든 if 조건문 삭제! main에 push/merge 되면 무조건 돕니다.
+    # 특정 레포에서만 실행
+    if: github.repository == 'algo-gongbu/algo-study'
     runs-on: ubuntu-24.04
     timeout-minutes: 10
 
@@ -52,13 +53,10 @@ jobs:
             const kstNow = new Date(now.toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
             const day = kstNow.getDay();
 
-            // 이번주 월요일 00:00 KST 계산
             let mondayDate = new Date(kstNow);
             if (day === 0) {
-              // 일요일이면 6일 전(월요일)으로
               mondayDate.setDate(mondayDate.getDate() - 6);
             } else {
-              // 월~토요일이면 (day - 1)일 전으로
               mondayDate.setDate(mondayDate.getDate() - (day - 1));
             }
             mondayDate.setHours(0, 0, 0, 0);
@@ -141,7 +139,6 @@ jobs:
             exit 0
           fi
 
-          # 봇이 스스로 무한루프에 빠지는 것은 이 [skip ci] 태그가 원천 차단합니다.
           git commit -m "📊 weekly dashboard update [skip ci]"
           git pull --rebase origin main
 
