@@ -7,6 +7,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
+| godten-cmd | 1 | ❌ |
 | onff02 | 5 | ✅ |
 | sungjaep11 | 2 | ❌ |
 | tomchaccom | 2 | ❌ |
