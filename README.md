@@ -9,7 +9,7 @@
 |--------|-------|--------|
 | LYoooJ | 5 | ✅ |
 | alicebsy | 1 | ❌ |
-| godten-cmd | 4 | ❌ |
+| godten-cmd | 5 | ✅ |
 | onff02 | 5 | ✅ |
 | sungjaep11 | 5 | ✅ |
 | tomchaccom | 2 | ❌ |
