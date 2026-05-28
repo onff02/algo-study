@@ -7,7 +7,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| LYoooJ | 4 | ❌ |
+| LYoooJ | 5 | ✅ |
 | haeunjeon0410 | 7 | ✅ |
 | sungjaep11 | 3 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
