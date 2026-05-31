@@ -9,7 +9,7 @@
 |--------|-------|--------|
 | KangYeSeo04 | 5 | ✅ |
 | LYoooJ | 5 | ✅ |
-| godten-cmd | 3 | ❌ |
+| godten-cmd | 4 | ❌ |
 | haeunjeon0410 | 7 | ✅ |
 | sungjaep11 | 5 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
