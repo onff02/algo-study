@@ -3,12 +3,11 @@
 ## 📊 Weekly Dashboard
 
 <!-- WEEKLY_DASHBOARD_START -->
-📅 기준 주간 시작: 2026-06-22 (월요일 00:00 KST)
+📅 기준 주간 시작: 2026-06-29 (월요일 00:00 KST)
 
 | Member | Count | Status |
 |--------|-------|--------|
-| onff02 | 5 | ✅ |
-| sungjaep11 | 5 | ✅ |
+| - | 0 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 ---
