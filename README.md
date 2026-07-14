@@ -7,7 +7,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| KangYeSeo04 | 3 | ❌ |
+| KangYeSeo04 | 4 | ❌ |
 | haeunjeon0410 | 5 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
