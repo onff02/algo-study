@@ -10,7 +10,7 @@
 | KangYeSeo04 | 5 | ✅ |
 | haeunjeon0410 | 5 | ✅ |
 | onff02 | 2 | ❌ |
-| sungjaep11 | 4 | ❌ |
+| sungjaep11 | 5 | ✅ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 ---
